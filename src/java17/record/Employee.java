@@ -1,4 +1,4 @@
-package record;
+package java17.record;
 
 public class Employee {
     public Employee(String name, int id) {
